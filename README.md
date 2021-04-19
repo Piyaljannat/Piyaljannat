@@ -10,7 +10,7 @@
 
 ###### Platforms I have worked in:
 
-![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github2.png)
+                                   ![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github2.png)
 
 ###### Publications:
 
