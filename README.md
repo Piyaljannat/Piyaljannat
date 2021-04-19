@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on anything related to NLP and Computer Vision
 - 📫 You can reach me at @jannatun.naim.cu@gmail.com ...
 
+![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github.png?raw=true)
+
 <!---
 Piyaljannat/Piyaljannat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
