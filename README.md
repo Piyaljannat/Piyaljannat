@@ -8,9 +8,15 @@
 
 ![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github.png?raw=true)
 
-Platforms I have worked in:
+###### Platforms I have worked in:
 
 ![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github2.png)
+
+###### Publications:
+```
+1. [Harnessing Ensemble of Data Preprocessing and Hand-crafted Features for Irony Detection in Tweets](https://ieeexplore.ieee.org/abstract/document/9392711)
+2. [CSECU-DSG at WNUT-2020 Task 2: Exploiting Ensemble of Transfer Learning and Hand-crafted Features for Identification of Informative COVID-19 English Tweet](https://www.aclweb.org/anthology/2020.wnut-1.55/)
+```
 
 <!---
 Piyaljannat/Piyaljannat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
