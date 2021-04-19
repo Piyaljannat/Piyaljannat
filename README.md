@@ -11,7 +11,7 @@
 ###### Platforms I have worked in:
 
 <p align="center">
-![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github2.png)
+<img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/Github2.png">
 </p>
 
 ###### Publications:
