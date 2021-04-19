@@ -1,3 +1,4 @@
+```
 - 👋 Hi, I’m @Piyaljannat
 - 👀 I’m interested in Machine Learning and AI, to be precise NLP and Computer Vision
 - 🌱 I’m currently exploring prospects of NLP and Multimodal learning
@@ -5,6 +6,7 @@
 - :woman_technologist: I'm also working on Android Studio(Java). I have also worked on PHP, HTML and CSS.
 - 💞️ I’m looking to collaborate on anything related to NLP and Computer Vision
 - 📫 You can reach me at @jannatun.naim.cu@gmail.com
+```
 
 ![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github.png?raw=true)
 
