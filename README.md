@@ -12,6 +12,8 @@ Platforms I have worked in:
 
 ![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github2.png)
 
+[![name](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github2.png)](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github.png?raw=true)
+
 <!---
 Piyaljannat/Piyaljannat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
