@@ -1,6 +1,6 @@
 
 <div align="left">
-  <img align="left" padding="5" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="50" width="300">
+  <img align="left" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="50" width="300">
 </div>
 <br/>
 
@@ -16,7 +16,7 @@
 ## Contact me at:
 <div>
 <img width="70" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"> 
-<a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="120" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="110" height="40" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
 </div>
 </br>
 
