@@ -12,8 +12,9 @@
 - 🌻 I'm also currently learning Django
 - 💻 I'm also working on Android Studio(Java). I have also worked on PHP, HTML and CSS.
 - 💞️ I’m looking to collaborate on anything related to NLP and Computer Vision
-- 📫 You can reach me at @jannatun.naim.cu@gmail.com
 ```
+## Contact me at:
+<img width="40" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"> <img width="40" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png">
 
 ![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github.png?raw=true)
 
