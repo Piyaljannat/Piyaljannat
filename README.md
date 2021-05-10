@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on anything related to NLP and Computer Vision
 ```
 ## Contact me at:
-<img width="70" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"> <img href="https://www.linkedin.com/in/jannatpiyal/" width="60" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png">
+<img width="70" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"> <a href="href="https://www.linkedin.com/in/jannatpiyal/"> <img width="60" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"> </a>
 
 ![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github.png?raw=true)
 
