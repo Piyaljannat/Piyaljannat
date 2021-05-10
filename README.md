@@ -15,7 +15,7 @@
 ```
 ## Contact me at:
 <div>
-<img width="140" height="40" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"> 
+<img width="130" height="40" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"> 
 <a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="110" height="40" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
 </div>
 </br>
