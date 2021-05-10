@@ -15,8 +15,8 @@
 ```
 ## Contact me @:
 <div>
-<a href="mailto:jannatun.naim.cu@gmail.com" target="_blank"><img width="115" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"></a>
-<a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="95" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
+<a href="mailto:jannatun.naim.cu@gmail.com" target="_blank"><img width="100" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"></a>
+<a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="80" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
 </div>
 </br>
 
