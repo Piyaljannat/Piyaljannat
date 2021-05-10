@@ -13,7 +13,7 @@
 - 💻 I'm also working on Android Studio(Java). I have also worked on PHP, HTML and CSS.
 - 💞️ I’m looking to collaborate on anything related to NLP and Computer Vision
 ```
-## Contact me @:
+## You can reach me @
 <div>
 <a href="mailto:jannatun.naim.cu@gmail.com" target="_blank"><img width="115" height="40" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"></a>
 <a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="90" height="40" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
@@ -22,7 +22,7 @@
 
 ![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github.png?raw=true)
 
-## Platforms I have worked in:
+## Languages, tools and platforms I have worked on:
 
 <p align="center">
 <img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/Github2.png">
