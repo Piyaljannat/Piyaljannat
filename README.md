@@ -1,8 +1,8 @@
 
 <div align="center">
-![](https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif)
+<img align="center" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif">
 </div>
-###
+###  
 ```
 - 👀 I’m interested in Machine Learning and AI, to be precise NLP and Computer Vision
 - 🌱 I’m currently exploring prospects of NLP and Multimodal learning
