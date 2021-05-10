@@ -1,8 +1,10 @@
 
 <div align="center">
-  <img align="center" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="80" width="1000">
-  <br>
+  <img align="center" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="80" width="600">
 </div>
+
+
+
 
 ```
 - 👀 I’m interested in Machine Learning and AI, to be precise NLP and Computer Vision
