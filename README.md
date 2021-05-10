@@ -1,6 +1,6 @@
 
 <div align="left">
-  <img align="center" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="50" width="400">
+  <img align="center" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="50" width="300">
 </div>
 <br/>
 
