@@ -13,10 +13,10 @@
 - 💻 I'm also working on Android Studio(Java). I have also worked on PHP, HTML and CSS.
 - 💞️ I’m looking to collaborate on anything related to NLP and Computer Vision
 ```
-## Contact me at:
+## Contact me @:
 <div>
-<a href="mailto:jannatun.naim.cu@gmail.com" target="_blank"><img width="110" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"></a>
-<a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="90" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
+<a href="mailto:jannatun.naim.cu@gmail.com" target="_blank"><img width="115" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"></a>
+<a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="95" height="30" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
 </div>
 </br>
 
