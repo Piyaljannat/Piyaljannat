@@ -1,8 +1,8 @@
 
 <div align="center">
-<img align="center" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="50" width="300">
+<img align="center" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="80" width="500">
 </div>
-
+<br>
 ```
 - 👀 I’m interested in Machine Learning and AI, to be precise NLP and Computer Vision
 - 🌱 I’m currently exploring prospects of NLP and Multimodal learning
