@@ -24,7 +24,24 @@
 
 
 <div>
-<img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/python2.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/python2.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/java.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/c++.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/php.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/css.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/html.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/xml.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/scikitlearn.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/tensorflow.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/keras.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/sql.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/posgres.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/sqlite.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/django.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/colab.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/androidstudio.png">
+  <img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/pycharm.png">
+  
 </div>
 </br>
 
