@@ -1,10 +1,4 @@
 
-<table>
-<tr>
-    <td><img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="50" width="300"></td>
-    <td><img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/pinkbird.gif" height="100" width="200"></td>
-  </tr>
- </table>
 <div align="left">
 <img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="50" width="300">
 <img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/pinkbird.gif" height="200" width="200">
