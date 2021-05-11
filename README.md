@@ -46,13 +46,8 @@
 </div>
 </br>
 
-<div align="left">
-  <img width="1000" height="150" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/raindrop.gif">
-  <!---<img width="1000" height="200" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/umbrella3%20(2).jpg">--->
-</div>
-
-
-## Publications:
+<img width="1000" height="300" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/rain.gif">
+## ☂️Publications:
 
 1. [Harnessing Ensemble of Data Preprocessing and Hand-crafted Features for Irony Detection in Tweets](https://ieeexplore.ieee.org/abstract/document/9392711)
 2. [CSECU-DSG at WNUT-2020 Task 2: Exploiting Ensemble of Transfer Learning and Hand-crafted Features for Identification of Informative COVID-19 English Tweet](https://www.aclweb.org/anthology/2020.wnut-1.55/)
