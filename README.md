@@ -47,7 +47,7 @@
 </br>
 
 <div align="center">
-  <img width="1000" height="300" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/rain.gif">
+  <img width="1000" height="300" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/raindrop.gif">
   <img width="1000" height="300" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/umbrella3%20(2).jpg">
 </div>
 
