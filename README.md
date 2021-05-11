@@ -22,9 +22,11 @@
 
 ## Languages, tools and platforms I have worked on:
 
-<p align="center">
-<img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/Github2.png">
-</p>
+
+<div>
+<img width="120" height="42" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/python.png">
+</div>
+</br>
 
 ## Publications:
 
