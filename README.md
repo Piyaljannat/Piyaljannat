@@ -46,8 +46,8 @@
 </div>
 </br>
 
-<div align="center">
-  <img width="1000" height="150" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/raindrop.gif">
+<div align="left">
+  <img width="900" height="150" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/raindrop.gif">
   <!---<img width="1000" height="200" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/umbrella3%20(2).jpg">--->
 </div>
 
