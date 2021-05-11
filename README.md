@@ -24,7 +24,7 @@
 
 
 <div>
-<img width="120" height="42" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/python2.png">
+<img width="120" height="60" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/python2.png">
 </div>
 </br>
 
