@@ -1,7 +1,7 @@
 
 <div align="left">
   <img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/hi.gif" height="50" width="300">
-  <img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/angrybird.gif.gif" height="200" width="200" position="absolute" top="100px">
+  <img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/angrybird.gif.gif" height="200" width="200" style="position:absolute;top:100px">
 </div>
 <br/>
 
