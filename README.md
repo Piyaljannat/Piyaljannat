@@ -15,12 +15,10 @@
 ```
 ## You can reach me @
 <div>
-<a href="mailto:jannatun.naim.cu@gmail.com" target="_blank"><img width="115" height="40" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"></a>
-<a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="90" height="40" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
+<a href="mailto:jannatun.naim.cu@gmail.com" target="_blank"><img width="120" height="42" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"></a>
+<a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="95" height="42" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
 </div>
 </br>
-
-![alt text](https://github.com/Piyaljannat/Piyaljannat/blob/main/Github.png?raw=true)
 
 ## Languages, tools and platforms I have worked on:
 
