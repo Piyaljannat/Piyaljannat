@@ -46,6 +46,7 @@
 </div>
 </br>
 
+<img src="https://github.com/Piyaljannat/Piyaljannat/blob/main/rain.gif">
 ## Publications:
 
 1. [Harnessing Ensemble of Data Preprocessing and Hand-crafted Features for Irony Detection in Tweets](https://ieeexplore.ieee.org/abstract/document/9392711)
