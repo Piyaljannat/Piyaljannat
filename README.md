@@ -8,6 +8,7 @@
 
 
 ```
+- 🎓 Alma mater: University of Chittagong, Major: CSE
 - 👀 I’m interested in Machine Learning and AI, to be precise NLP and Computer Vision
 - 🌱 I’m currently exploring prospects of NLP and Multimodal learning
 - 🌻 I'm also currently learning Django
