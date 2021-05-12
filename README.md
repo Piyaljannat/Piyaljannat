@@ -14,14 +14,14 @@
 - 💻 I'm also working on Android Studio(Java). I have also worked on PHP, HTML and CSS.
 - 💞️ I’m looking to collaborate on anything related to NLP and Computer Vision
 ```
-## You can reach me @
+## 📫 You can reach me @
 <div>
 <a href="mailto:jannatun.naim.cu@gmail.com" target="_blank"><img width="125" height="42" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/gmail.png"></a>
 <a href="https://www.linkedin.com/in/jannatpiyal/" target="_blank"><img width="100" height="42" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/linkedin.png"></a>
 </div>
 </br>
 
-## Languages, tools and platforms I have worked on:
+## 🛠️ Languages, tools and platforms I have worked on:
 
 
 <div>
@@ -49,7 +49,7 @@
   <img width="1000" height="150" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/raindrop.gif">
 </div>
 
-## ☂️Publications:
+## ☂️ Publications:
 
 1. [Harnessing Ensemble of Data Preprocessing and Hand-crafted Features for Irony Detection in Tweets](https://ieeexplore.ieee.org/abstract/document/9392711)
 2. [CSECU-DSG at WNUT-2020 Task 2: Exploiting Ensemble of Transfer Learning and Hand-crafted Features for Identification of Informative COVID-19 English Tweet](https://www.aclweb.org/anthology/2020.wnut-1.55/)
