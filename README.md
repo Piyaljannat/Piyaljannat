@@ -49,9 +49,7 @@
   
 </div>
 </br>
-<div align="left">
-  <img width="1000" height="150" src="https://github.com/Piyaljannat/Piyaljannat/blob/main/raindrop.gif">
-</div>
+
 
 ## ☂️ Publications:
 
